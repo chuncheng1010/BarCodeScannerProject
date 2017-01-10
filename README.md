@@ -1,2 +1,2 @@
 # BarCodeScannerProject
-iOS Barcode Scanner using Apple's excellent AVFoundation framework
+Android Barcode Scanner using zxing library
